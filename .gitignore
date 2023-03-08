@@ -1,0 +1,7 @@
+.vs
+.vscode
+
+/build
+/bin
+/deps/fftw/bin/*.lib
+/deps/fftw/bin/*.exp
